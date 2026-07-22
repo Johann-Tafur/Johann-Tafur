@@ -1,97 +1,120 @@
-<!--
-CONFIG
-FULL_NAME: Johann Tafur Farfán
-GITHUB_USER: Johann-Tafur
-EMAIL: johanntafurfarfan@gmail.com
-CODE_SENA_URL: https://github.com/code-sena
--->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090014,35:2b0a5f,70:00e5ff,100:ff00c8&text=JOHANN%20TAFUR&fontColor=f7f2ff&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20TRAINING%20%E2%80%A2%20NEIVA%2C%20COLOMBIA&descAlignY=56&descSize=15&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=780&lines=%3E+Inicializando+perfil...;%3E+Construyendo+soluciones+para+problemas+reales.;%3E+Java+%7C+SQL+%7C+Aprendizaje+constante." alt="Texto animado" />
-
-[![GitHub](https://img.shields.io/badge/GitHub-Johann--Tafur-090014?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090014)](https://github.com/Johann-Tafur)
-[![SENA](https://img.shields.io/badge/ADSO-SENA-ff00c8?style=for-the-badge&labelColor=090014)](https://www.sena.edu.co/)
-[![Ubicación](https://img.shields.io/badge/Neiva%2C%20Colombia-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=090014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
-
-</div>
-
-## `whoami`
-
-~~~yaml
-nombre: Johann Tafur Farfán
-rol: Desarrollador de software en formación
-formación:
-  - Análisis y Desarrollo de Software (ADSO) · SENA
-  - Ingeniería de Software · UNIMINUTO
-ubicación: Neiva, Huila · Colombia
-enfoque: Convertir necesidades reales en productos digitales útiles
-estado: Diseñando la próxima versión de Waylix
-~~~
-
-Soy estudiante de software y profesional del sector farmacéutico. Mi experiencia en dispensación, inventarios y procesos operativos me enseñó a mirar los problemas con precisión; ahora la combino con programación para crear soluciones claras, prácticas y centradas en las personas.
-
-## ⚡ Arsenal tecnológico
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,html,css,js,docker,linux&theme=dark" alt="Java, MySQL, Git, GitHub, VS Code, HTML, CSS, JavaScript, Docker y Linux" />
-
-</div>
-
-| Construyendo | Aprendiendo |
-|---|---|
-| Aplicaciones Java con lógica de negocio clara | Arquitectura de software |
-| Modelado y consultas SQL | Buenas prácticas y código mantenible |
-| Interfaces con HTML, CSS y JavaScript | Contenedores con Docker |
-| Flujos de trabajo con Git y GitHub | Diseño de productos centrados en usuarios |
-
-## 🚀 Proyecto en el radar: `WAYLIX`
-
-> **Movilidad urbana, mejor conectada.**
-
-**Waylix** es una propuesta de plataforma para mejorar la experiencia del transporte público mediante información útil para pasajeros, operadores y empresas.
-
-~~~text
-[ Rutas inteligentes ] ── [ GPS en tiempo real ] ── [ Estado del tráfico ]
-           │                         │                         │
-           └────────────── [ Mejor experiencia urbana ] ──────┘
-~~~
-
-**Módulos planteados**
-
-- Seguimiento de rutas y ocupación de buses
-- Información de tráfico y tiempos estimados
-- Aplicación para pasajeros
-- Panel administrativo y gestión para operadores
-
-## 📊 Telemetría de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_title=true&hide_border=true&bg_color=090014&title_color=00e5ff&text_color=f7f2ff&icon_color=ff00c8&ring_color=00e5ff" alt="Estadísticas de GitHub de Johann Tafur" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00e5ff&text_color=f7f2ff" alt="Lenguajes más usados de Johann Tafur" />
+<img width="100%" src="./assets/tafur-multiverse-banner.png" alt="TAFUR — Software, Waylix y Neiva en un universo urbano de cómic" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=090014&ring=00E5FF&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=F7F2FF&dates=A78BFA&stroke=090014" alt="Racha de contribuciones de Johann Tafur" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=850&color=FF2BD6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&lines=%E2%9A%A1+JOHANN+TAFUR+FARF%C3%81N;%F0%9F%9A%8D+CREANDO+WAYLIX;%F0%9F%92%BB+JAVA+%E2%80%A2+SQL+%E2%80%A2+SOFTWARE;%F0%9F%8C%8C+DEL+CAOS+NACEN+LAS+MEJORES+IDEAS" alt="Presentación animada de Johann Tafur" />
+
+[![GitHub](https://img.shields.io/badge/@Johann--Tafur-090014?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Johann-Tafur)
+[![SENA](https://img.shields.io/badge/ADSO_3239137-FF2BD6?style=for-the-badge&logoColor=white)](https://www.sena.edu.co/)
+[![Neiva](https://img.shields.io/badge/NEIVA_•_COLOMBIA-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=090014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
 
 </div>
 
-## 📡 Conectemos
+## `01 // ORIGIN STORY`
+
+```yaml
+identity: Johann Tafur Farfán
+class: Software Developer in Training
+location: Neiva, Huila — Colombia
+education:
+  - ADSO · SENA · Ficha 3239137
+  - Ingeniería de Software · UNIMINUTO
+current_mission: Construir productos digitales que resuelvan problemas reales
+main_universe: WAYLIX
+```
+
+Vengo del sector farmacéutico, donde aprendí que la precisión, el orden y las personas importan. Ahora llevo esa experiencia al software: convierto necesidades reales en soluciones claras, útiles y con identidad propia.
+
+> **No estoy esperando el futuro. Estoy aprendiendo a programarlo.**
+
+---
+
+## `02 // POWER SET`
 
 <div align="center">
 
-Si te interesa colaborar en un proyecto, revisar una idea o hablar de tecnología, abre un issue o escríbeme a través de GitHub.
-
-[![Abrir una conversación](https://img.shields.io/badge/Abrir%20una%20conversación-00e5ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090014)](https://github.com/Johann-Tafur)
-[![Ver repositorios](https://img.shields.io/badge/Ver%20repositorios-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090014)](https://github.com/Johann-Tafur?tab=repositories)
+<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,docker,vscode,linux&theme=dark" alt="Java, MySQL, HTML, CSS, JavaScript, Git, GitHub, Docker, VS Code y Linux" />
 
 <br /><br />
 
-`$ constancia + curiosidad = crecimiento;`
+![Java](https://img.shields.io/badge/JAVA-FF4D00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=090014)
+![Git](https://img.shields.io/badge/GIT-FF2BD6?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-6C4BFF?style=for-the-badge&logo=docker&logoColor=white)
 
-<sub>Hecho con disciplina, café y código desde Neiva, Colombia.</sub>
+</div>
+
+| ⚡ Construyendo ahora | 🌀 Próximo nivel |
+|:---|:---|
+| Aplicaciones Java y lógica de negocio | Arquitectura de software |
+| Bases de datos relacionales y SQL | Código limpio y mantenible |
+| Interfaces con HTML, CSS y JavaScript | Productos centrados en usuarios |
+| Flujos con Git, GitHub y Docker | Desarrollo full stack |
+
+---
+
+## `03 // MAIN UNIVERSE: WAYLIX`
+
+<div align="center">
+
+### 🚍 **Tu camino inteligente**
+
+**Una visión de movilidad urbana para conectar pasajeros, conductores y empresas.**
+
+</div>
+
+```text
+PASAJERO  ──►  RUTA IDEAL  ──►  BUS EN TIEMPO REAL
+    ▲                                  │
+    │          ┌────────────┐          ▼
+    └──────────│   WAYLIX   │◄──  OCUPACIÓN + TRÁFICO
+               └────────────┘
+```
+
+- 📍 Seguimiento de rutas, paradas y tiempos estimados.
+- 👥 Nivel de ocupación: disponible, medio o lleno.
+- 🚦 Alertas de tráfico, fallas y novedades de la vía.
+- 🧭 Recomendaciones para encontrar la mejor ruta.
+- 🏢 Herramientas de coordinación para conductores y empresas.
+
+> Waylix nace de una pregunta sencilla: **¿por qué moverse por la ciudad tiene que sentirse como adivinar?**
+
+---
+
+## `04 // LIVE SIGNAL`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=090014&title_color=FF2BD6&text_color=F8F5FF&icon_color=00D9FF&ring_color=FF7A00" alt="Estadísticas de GitHub de Johann Tafur" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00D9FF&text_color=F8F5FF" alt="Lenguajes más usados por Johann Tafur" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=090014&ring=FF2BD6&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=F8F5FF&dates=9D8CFF&stroke=24114D" alt="Racha de contribuciones de Johann Tafur" />
+
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=090014&color=00D9FF&line=FF2BD6&point=FF7A00&area=true&hide_border=true" alt="Gráfica de actividad de Johann Tafur" />
+
+</div>
+
+---
+
+## `05 // OPEN CHANNEL`
+
+<div align="center">
+
+### ¿Construimos algo que todavía no existe?
+
+[![Repositorios](https://img.shields.io/badge/EXPLORAR_REPOSITORIOS-FF2BD6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Tafur?tab=repositories)
+[![Email](https://img.shields.io/badge/ENVIAR_SEÑAL-00D9FF?style=for-the-badge&logo=gmail&logoColor=090014)](mailto:johanntafurfarfan@gmail.com)
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=blur&height=130&color=0:090014,35:6C4BFF,65:FF2BD6,100:FF7A00&section=footer&text=END%20OF%20THIS%20UNIVERSE...&fontColor=FFFFFF&fontSize=18&animation=twinkling" width="100%" alt="Final del perfil" />
+
+<sub>`TAFUR // NEIVA // 2026` · Hecho con código, curiosidad y caos creativo.</sub>
 
 </div>
