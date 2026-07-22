@@ -7,193 +7,91 @@ CODE_SENA_URL: https://github.com/code-sena
 -->
 <div align="center">
 
-# ⚡ TAFUR.EXE ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090014,35:2b0a5f,70:00e5ff,100:ff00c8&text=JOHANN%20TAFUR&fontColor=f7f2ff&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20IN%20TRAINING%20%E2%80%A2%20NEIVA%2C%20COLOMBIA&descAlignY=56&descSize=15&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Booting+TAFUR.EXE...;Welcome+Johann+Tafur+Farf%C3%A1n;Software+Developer;Java+Developer;SQL+Enthusiast;Creator+of+Waylix;Building+the+future..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=780&lines=%3E+Inicializando+perfil...;%3E+Construyendo+soluciones+para+problemas+reales.;%3E+Java+%7C+SQL+%7C+Aprendizaje+constante." alt="Texto animado" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,30:6d28d9,70:3b82f6,100:0d1117&text=TAFUR&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Johann--Tafur-090014?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=090014)](https://github.com/Johann-Tafur)
+[![SENA](https://img.shields.io/badge/ADSO-SENA-ff00c8?style=for-the-badge&labelColor=090014)](https://www.sena.edu.co/)
+[![Ubicación](https://img.shields.io/badge/Neiva%2C%20Colombia-00e5ff?style=for-the-badge&logo=googlemaps&logoColor=ffffff&labelColor=090014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
 
 </div>
 
----
+## `whoami`
 
-# 👨‍💻 whoami
+~~~yaml
+nombre: Johann Tafur Farfán
+rol: Desarrollador de software en formación
+formación:
+  - Análisis y Desarrollo de Software (ADSO) · SENA
+  - Ingeniería de Software · UNIMINUTO
+ubicación: Neiva, Huila · Colombia
+enfoque: Convertir necesidades reales en productos digitales útiles
+estado: Diseñando la próxima versión de Waylix
+~~~
 
-```bash
-> Name........ Johann Tafur Farfán
+Soy estudiante de software y profesional del sector farmacéutico. Mi experiencia en dispensación, inventarios y procesos operativos me enseñó a mirar los problemas con precisión; ahora la combino con programación para crear soluciones claras, prácticas y centradas en las personas.
 
-> Country..... Colombia 🇨🇴
-
-> Student..... ADSO
-
-> Record....... 3239137
-
-> Occupation.. Pharmacy Assistant @ DaVita
-
-> Languages... Java | SQL
-
-> IDE......... VS Code
-
-> Status...... Building WAYLIX...
-```
-
----
-
-# 🚍 Project WAYLIX
-
-Waylix es una plataforma inteligente diseñada para mejorar la movilidad urbana mediante información en tiempo real.
-
-### Funciones
-
-- 🚌 Rutas inteligentes
-- 📍 GPS en tiempo real
-- 👥 Ocupación del bus
-- 🚦 Estado del tráfico
-- 📱 Aplicación para pasajeros
-- 🏢 Dashboard administrativo
-- 🚍 Gestión para empresas transportadoras
-
----
-
-# ⚙ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,docker,html,css,linux,windows"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Johann-Tafur&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://github.com/Johann-Tafur">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=instagram"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=discord"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</p>
-
----
+## ⚡ Arsenal tecnológico
 
 <div align="center">
 
-### ⚡ *"Turning coffee into code."*
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,html,css,js,docker,linux&theme=dark" alt="Java, MySQL, Git, GitHub, VS Code, HTML, CSS, JavaScript, Docker y Linux" />
 
 </div>
 
-Tengo experiencia real en el sector farmacéutico trabajando en **DaVita**, donde manejo dispensación de medicamentos, gestión de inventario y preparación de mezclas parenterales.
+| Construyendo | Aprendiendo |
+|---|---|
+| Aplicaciones Java con lógica de negocio clara | Arquitectura de software |
+| Modelado y consultas SQL | Buenas prácticas y código mantenible |
+| Interfaces con HTML, CSS y JavaScript | Contenedores con Docker |
+| Flujos de trabajo con Git y GitHub | Diseño de productos centrados en usuarios |
 
-Actualmente estoy cursando **Análisis y Desarrollo de Software (ADSO)** en el SENA e **Ingeniería de Software** en UNIMINUTO. Mi pasión es transformar problemas reales en soluciones de software innovadoras.
+## 🚀 Proyecto en el radar: `WAYLIX`
 
-### 📍 Ubicación
-Neiva, Huila · Colombia
+> **Movilidad urbana, mejor conectada.**
 
-### 🆔 Ficha SENA
-3239137
+**Waylix** es una propuesta de plataforma para mejorar la experiencia del transporte público mediante información útil para pasajeros, operadores y empresas.
 
-### 💼 Experiencia Actual
-Auxiliar Farmacéutico · DaVita
+~~~text
+[ Rutas inteligentes ] ── [ GPS en tiempo real ] ── [ Estado del tráfico ]
+           │                         │                         │
+           └────────────── [ Mejor experiencia urbana ] ──────┘
+~~~
 
----
+**Módulos planteados**
 
-## 🧠 Actualmente estoy aprendiendo
+- Seguimiento de rutas y ocupación de buses
+- Información de tráfico y tiempos estimados
+- Aplicación para pasajeros
+- Panel administrativo y gestión para operadores
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 Telemetría de GitHub
 
----
+<div align="center">
 
-## 📂 Sobre este repositorio
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_title=true&hide_border=true&bg_color=090014&title_color=00e5ff&text_color=f7f2ff&icon_color=ff00c8&ring_color=00e5ff" alt="Estadísticas de GitHub de Johann Tafur" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00e5ff&text_color=f7f2ff" alt="Lenguajes más usados de Johann Tafur" />
 
-Aquí encontrarás:
+<br />
 
-- 📘 **Proyectos académicos** - Trabajos del SENA y UNIMINUTO
-- 🧪 **Prácticas personales** - Ejercicios y desafíos de programación
-- 💡 **Ejercicios de aprendizaje** - Consolidando conceptos fundamentales
-- 📈 **Avances como desarrollador** - Mi evolución técnica y profesional
+<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=090014&ring=00E5FF&fire=FF00C8&currStreakLabel=00E5FF&sideLabels=F7F2FF&dates=A78BFA&stroke=090014" alt="Racha de contribuciones de Johann Tafur" />
 
----
+</div>
 
-## 🚍 Proyecto Destacado
+## 📡 Conectemos
 
-### **Waylix** - Sistema de Transporte Público Inteligente
+<div align="center">
 
-Una plataforma integral diseñada para revolucionar la gestión del transporte público. Sistema de optimización de rutas, administración de horarios inteligentes e interfaz intuitiva para usuarios y operadores.
+Si te interesa colaborar en un proyecto, revisar una idea o hablar de tecnología, abre un issue o escríbeme a través de GitHub.
 
-**¿Por qué Waylix?** Soluciona un problema real en las ciudades: la falta de coordinación en transporte público, mejorando la experiencia del usuario y la eficiencia operativa.
+[![Abrir una conversación](https://img.shields.io/badge/Abrir%20una%20conversación-00e5ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090014)](https://github.com/Johann-Tafur)
+[![Ver repositorios](https://img.shields.io/badge/Ver%20repositorios-ff00c8?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=090014)](https://github.com/Johann-Tafur?tab=repositories)
 
-**Tecnologías:**
-- Java
-- SQL
-- Base de Datos Relacional
-- Lógica de Negocio
+<br /><br />
 
----
+`$ constancia + curiosidad = crecimiento;`
 
-## ⚡ Frase que me representa
+<sub>Hecho con disciplina, café y código desde Neiva, Colombia.</sub>
 
-> **"La práctica constante construye grandes desarrolladores"**
-
-Creo que cada línea de código es una oportunidad de aprendizaje. La consistencia, la dedicación y la curiosidad son las claves para convertirse en un excelente desarrollador. No es un destino, es un camino.
-
----
-
-## 📫 Contacto
-
-- 📧 **Correo:** [johann.tafur@gmail.com](mailto:johann.tafur@gmail.com)
-- 🐙 **GitHub:** [@johanntafur](https://github.com/johanntafur)
-- 📱 **Teléfono:** +57 316 XXX XXXX
-- 💼 **LinkedIn:** Johann Tafur Farfán
-
----
-
-⭐ Este repositorio refleja mi proceso de aprendizaje y crecimiento en el mundo tech
-
-**Johann Tafur Farfán © 2026 | SENA ADSO 3239137**
-
-Hecho con ☕ y 💻 desde Neiva, Huila
-
-✨ ✨ ✨
+</div>
