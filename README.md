@@ -5,22 +5,119 @@ GITHUB_USER: Johann-Tafur
 EMAIL: johanntafurfarfan@gmail.com
 CODE_SENA_URL: https://github.com/code-sena
 -->
-# 👋 Hola, soy Johann Tafur Farfán
+<div align="center">
 
-### 📱 Estudiante de ADSO | Futuro Desarrollador de Software
+# ⚡ TAFUR.EXE ⚡
 
-```
-🧠 Mejorando mi lógica de programación
-💻 Construyendo proyectos reales
-🎯 Explorando Frontend y Backend
-🚀 Futuro desarrollador de software
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Booting+TAFUR.EXE...;Welcome+Johann+Tafur+Farf%C3%A1n;Software+Developer;Java+Developer;SQL+Enthusiast;Creator+of+Waylix;Building+the+future..." />
 
-![](https://komarev.com/ghpvc/?username=johanntafur&label=Visitas%20al%20perfil&color=00f7ff&style=for-the-badge)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,30:6d28d9,70:3b82f6,100:0d1117&text=TAFUR&fontColor=ffffff&fontSize=65&animation=fadeIn&fontAlignY=38"/>
+
+</div>
 
 ---
 
-## 🚀 Sobre mí
+# 👨‍💻 whoami
+
+```bash
+> Name........ Johann Tafur Farfán
+
+> Country..... Colombia 🇨🇴
+
+> Student..... ADSO
+
+> Record....... 3239137
+
+> Occupation.. Pharmacy Assistant @ DaVita
+
+> Languages... Java | SQL
+
+> IDE......... VS Code
+
+> Status...... Building WAYLIX...
+```
+
+---
+
+# 🚍 Project WAYLIX
+
+Waylix es una plataforma inteligente diseñada para mejorar la movilidad urbana mediante información en tiempo real.
+
+### Funciones
+
+- 🚌 Rutas inteligentes
+- 📍 GPS en tiempo real
+- 👥 Ocupación del bus
+- 🚦 Estado del tráfico
+- 📱 Aplicación para pasajeros
+- 🏢 Dashboard administrativo
+- 🚍 Gestión para empresas transportadoras
+
+---
+
+# ⚙ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode,docker,html,css,linux,windows"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Johann-Tafur&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/Johann-Tafur">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=instagram"/>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=discord"/>
+
+&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ *"Turning coffee into code."*
+
+</div>
 
 Tengo experiencia real en el sector farmacéutico trabajando en **DaVita**, donde manejo dispensación de medicamentos, gestión de inventario y preparación de mezclas parenterales.
 
