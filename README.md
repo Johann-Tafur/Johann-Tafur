@@ -1,128 +1,181 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,25:6A00FF,55:FF00C8,78:00E5FF,100:B8FF00&height=190&section=header&text=JOHANN%20TAFUR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20BREAK%20THE%20PATTERN&descSize=14&descAlignY=66&animation=fadeIn" width="100%" alt="Johann Tafur — Code, create, break the pattern" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SOFTWARE+DEVELOPER+IN+TRAINING;%F0%9F%9A%8D+BUILDING+WAYLIX;%F0%9F%8C%83+NEIVA%2C+COLOMBIA;%E2%9C%A6+TURNING+IDEAS+INTO+SYSTEMS" alt="Animated introduction" />
-
-<br />
-
-[![Profile](https://img.shields.io/badge/@Johann--Tafur-0A0014?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Johann-Tafur)
-[![SENA](https://img.shields.io/badge/ADSO_3239137-FF00C8?style=for-the-badge&logoColor=white)](https://www.sena.edu.co/)
-[![Colombia](https://img.shields.io/badge/NEIVA%2C_COLOMBIA-B8FF00?style=for-the-badge&logo=googlemaps&logoColor=0A0014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
-
-</div>
-
-<br />
-
-## ◢◤ SIGNAL DETECTED
-
-```yaml
-identity: Johann Tafur Farfán
-role: Software Developer in Training
-base: Neiva, Huila — Colombia
-education:
-  - ADSO · SENA · Ficha 3239137
-  - Ingeniería de Software · UNIMINUTO
-currently_building: WAYLIX
-mission: Convertir problemas reales en productos útiles, claros y memorables
-```
-
-> Vengo del sector farmacéutico: precisión, orden y atención a las personas.
-> Ahora llevo esa mentalidad al software para diseñar soluciones que se sientan humanas.
-
-<div align="center">
-
-**No espero el futuro. Aprendo a programarlo.**
-
-</div>
-
----
-
-## ◢◤ LOADOUT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,docker,vscode,linux&theme=dark" alt="Java, MySQL, HTML, CSS, JavaScript, Git, GitHub, Docker, VS Code y Linux" />
-
-<br /><br />
-
-![Java](https://img.shields.io/badge/JAVA-6A00FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=0A0014)
-![Git](https://img.shields.io/badge/GIT-FF00C8?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-B8FF00?style=for-the-badge&logo=docker&logoColor=0A0014)
-
-</div>
-
-| NOW BUILDING | NEXT UPGRADE |
-|:--|:--|
-| Aplicaciones Java y lógica de negocio | Arquitectura de software |
-| Modelado de datos y SQL | Código limpio y mantenible |
-| Interfaces HTML, CSS y JavaScript | Desarrollo full stack |
-| Flujos con Git, GitHub y Docker | Productos centrados en usuarios |
-
----
-
-## ◢◤ MAIN QUEST — WAYLIX
-
-<div align="center">
-
-### 🚍 Movilidad urbana, sin adivinar.
-
-**WAYLIX** es una visión de movilidad inteligente para conectar pasajeros, conductores y empresas en tiempo real.
-
-</div>
-
-```text
- PASAJERO ──► RUTA IDEAL ──► BUS EN TIEMPO REAL
-     ▲                               │
-     │        ┌────────────┐         ▼
-     └────────│   WAYLIX   │◄── OCUPACIÓN + TRÁFICO
-              └────────────┘
-```
-
-- 📍 Rutas, paradas y tiempos estimados.
-- 👥 Estado de ocupación: disponible, medio o lleno.
-- 🚦 Alertas de tráfico, fallas y novedades.
-- 🧭 Recomendaciones para elegir mejor.
-- 🏢 Herramientas para conductores y empresas.
-
-> **¿Por qué moverse por la ciudad tiene que sentirse como adivinar?**  
-> Waylix existe para convertir esa pregunta en una mejor experiencia.
-
----
-
-## ◢◤ LIVE TELEMETRY
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=0A0014&title_color=FF00C8&text_color=F5F0FF&icon_color=00E5FF&ring_color=B8FF00" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=0A0014&title_color=00E5FF&text_color=F5F0FF" alt="Most used languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=0A0014&ring=FF00C8&fire=B8FF00&currStreakLabel=00E5FF&sideLabels=F5F0FF&dates=9D8CFF&stroke=281342" alt="Contribution streak" />
-
-<br /><br />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=0A0014&color=00E5FF&line=FF00C8&point=B8FF00&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## ◢◤ OPEN A CHANNEL
-
-<div align="center">
-
-### ¿Construimos algo que todavía no existe?
-
-[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-FF00C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Tafur?tab=repositories)
-[![Send email](https://img.shields.io/badge/SEND_A_SIGNAL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A0014)](mailto:johanntafurfarfan@gmail.com)
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0A0014,40:6A00FF,70:FF00C8,100:00E5FF&section=footer&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=18&animation=twinkling&fontAlignY=62" width="100%" alt="System online" />
-
-<sub>TAFUR // NEIVA // 2026 · Built with code, curiosity and controlled chaos.</sub>
-
-</div>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+<profile gkeysdk="0" lastplayeddate="2021-01-04T19:41:50" guid="{6B3AD508-635C-42A5-AB33-0D96C103532D}" launchable="1" gpasupported="0" lock="0" gameid="" name="Cyberpunk 2077">
+<description/>
+<target path="D:\STEAMLIBRARY\STEAMAPPS\COMMON\CYBERPUNK 2077\BIN\X64\CYBERPUNK2077.EXE"/>
+<target path="D:\STEAMLIBRARY\STEAMAPPS\COMMON\CYBERPUNK 2077\REDPRELAUNCHER.EXE"/>
+<signature value="" key="" executable="" name=""/>
+<macros>
+<macro color="4278246655" guid="{12F77BFD-F0D1-4E28-8690-3A5A94009C05}" hidden="false" name="Esc">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="ESCAPE"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{5CA866F5-019C-47D0-8927-65CDB31A6A44}" hidden="false" name="W">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="W"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{28D67705-9F92-481B-9682-720083F0535F}" hidden="false" name="A">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="A"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{870A5453-3175-467F-8F15-23F38A81BFBC}" hidden="false" name="S">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="S"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{ABECF237-01EA-4270-87FB-00996975B87A}" hidden="false" name="D">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="D"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{19E05B76-A9D3-4E53-B265-C59787A812F9}" hidden="false" name="Space">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="SPACEBAR"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{CDCC1751-0A58-4893-ADFE-ADFEBA11D352}" hidden="false" name="E">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="E"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{506CAEDB-C827-4817-97D9-CFB199AB6F11}" hidden="false" name="Q">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="Q"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{ABBFCCDB-0572-4C77-BA83-DCB5263C3F5C}" hidden="false" name="Shift">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="LSHIFT"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{651ABC67-D4FE-4C69-B1D1-C74DB39BF243}" hidden="false" name="Tab">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="TAB"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{3FD4851E-3914-457B-B8A1-BBE36FFFC4B7}" hidden="false" name="X">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="X"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{1053A4C5-D9A4-43AC-98F2-1A86EAFE79E2}" hidden="false" name="R">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="R"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{7A1026EA-B653-4BDF-BAB4-5195C29BBB52}" hidden="false" name="T Phone">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="T"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{85D781DA-532B-428A-9B20-14B6804DDF44}" hidden="false" name="Z Notifications">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="Z"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{6E11B114-0F9C-48AA-807D-90B4F000C58E}" hidden="false" name="N Photo mode">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="N"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{27068551-8523-4D5B-BEBD-31ABE44E5D61}" hidden="false" name="I Main menu">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="I"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{83137E77-262A-4EB8-8C79-3C92CC5B9A64}" hidden="false" name="M Map">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="M"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{D4CCE502-3632-447B-A25B-86CF741D2672}" hidden="false" name="J Journal">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="J"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{47B3B74C-B2B7-47A7-A5BF-5B9CA85AA02A}" hidden="false" name="K Crafting">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="K"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{B6C7C217-CE7A-48C3-AEF3-515F0903D4C0}" hidden="false" name="O Inventory">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="O"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{332C612B-1BE2-4F7F-AA81-7696E43F7513}" hidden="false" name="P Main menu">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="P"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{57695AE3-9700-4465-B789-A2E0486B0240}" hidden="false" name="Alt Cycle lights">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="LALT"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{ABE7F913-DD27-4287-AA4A-8DDC360704BD}" hidden="false" name="V Call vehicle">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="V"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{66ED6C5F-FAE4-43E1-B533-97544E656983}" hidden="false" name="C">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="C"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{945899CD-BC72-4053-B824-6C5381CACD7C}" hidden="false" name="F Interact">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="F"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{819DCC42-B73A-494E-83F5-93A910422A86}" hidden="false" name="C Toggle crouch">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="C"/>
+</keystroke>
+</macro>
+<macro color="4278246655" guid="{0E3F3D6C-B76D-4A3A-A07B-6F645C0C3202}" hidden="false" name="F5 Quick save">
+<keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+<key value="F5"/>
+</keystroke>
+</macro>
+</macros>
+<assignments devicecategory="Logitech.Gaming.LeftHandedController">
+<assignment contextid="G1" backup="false" macroguid="{12F77BFD-F0D1-4E28-8690-3A5A94009C05}" shiftstate="1" original="false"/>
+<assignment contextid="G4" backup="false" macroguid="{5CA866F5-019C-47D0-8927-65CDB31A6A44}" shiftstate="1" original="false"/>
+<assignment contextid="G10" backup="false" macroguid="{28D67705-9F92-481B-9682-720083F0535F}" shiftstate="1" original="false"/>
+<assignment contextid="G11" backup="false" macroguid="{870A5453-3175-467F-8F15-23F38A81BFBC}" shiftstate="1" original="false"/>
+<assignment contextid="G12" backup="false" macroguid="{ABECF237-01EA-4270-87FB-00996975B87A}" shiftstate="1" original="false"/>
+<assignment contextid="G22" backup="false" macroguid="{19E05B76-A9D3-4E53-B265-C59787A812F9}" shiftstate="1" original="false"/>
+<assignment contextid="G15" backup="false" macroguid="{ABBFCCDB-0572-4C77-BA83-DCB5263C3F5C}" shiftstate="1" original="false"/>
+<assignment contextid="G8" backup="false" macroguid="{651ABC67-D4FE-4C69-B1D1-C74DB39BF243}" shiftstate="1" original="false"/>
+<assignment contextid="G17" backup="false" macroguid="{3FD4851E-3914-457B-B8A1-BBE36FFFC4B7}" shiftstate="1" original="false"/>
+<assignment contextid="G6" backup="false" macroguid="{1053A4C5-D9A4-43AC-98F2-1A86EAFE79E2}" shiftstate="1" original="false"/>
+<assignment contextid="G20" backup="false" macroguid="{819DCC42-B73A-494E-83F5-93A910422A86}" shiftstate="1" original="false"/>
+<assignment contextid="G16" backup="false" macroguid="{85D781DA-532B-428A-9B20-14B6804DDF44}" shiftstate="1" original="false"/>
+<assignment contextid="G24" backup="false" macroguid="{6E11B114-0F9C-48AA-807D-90B4F000C58E}" shiftstate="1" original="false"/>
+<assignment contextid="G23" backup="false" macroguid="{83137E77-262A-4EB8-8C79-3C92CC5B9A64}" shiftstate="1" original="false"/>
+<assignment contextid="G29" backup="false" macroguid="{D4CCE502-3632-447B-A25B-86CF741D2672}" shiftstate="1" original="false"/>
+<assignment contextid="G19" backup="false" macroguid="{332C612B-1BE2-4F7F-AA81-7696E43F7513}" shiftstate="1" original="false"/>
+<assignment contextid="G21" backup="false" macroguid="{57695AE3-9700-4465-B789-A2E0486B0240}" shiftstate="1" original="false"/>
+<assignment contextid="G14" backup="false" macroguid="{ABE7F913-DD27-4287-AA4A-8DDC360704BD}" shiftstate="1" original="false"/>
+<assignment contextid="G18" backup="false" macroguid="{66ED6C5F-FAE4-43E1-B533-97544E656983}" shiftstate="1" original="false"/>
+<assignment contextid="G28" backup="false" macroguid="{47B3B74C-B2B7-47A7-A5BF-5B9CA85AA02A}" shiftstate="1" original="false"/>
+<assignment contextid="G9" backup="false" macroguid="{CDCC1751-0A58-4893-ADFE-ADFEBA11D352}" shiftstate="1" original="false"/>
+<assignment contextid="G5" backup="false" macroguid="{945899CD-BC72-4053-B824-6C5381CACD7C}" shiftstate="1" original="false"/>
+<assignment contextid="G13" backup="false" macroguid="{B6C7C217-CE7A-48C3-AEF3-515F0903D4C0}" shiftstate="1" original="false"/>
+<assignment contextid="G26" backup="false" macroguid="{27068551-8523-4D5B-BEBD-31ABE44E5D61}" shiftstate="1" original="false"/>
+<assignment contextid="G2" backup="false" macroguid="{506CAEDB-C827-4817-97D9-CFB199AB6F11}" shiftstate="1" original="false"/>
+<assignment contextid="G3" backup="false" macroguid="{7A1026EA-B653-4BDF-BAB4-5195C29BBB52}" shiftstate="1" original="false"/>
+<assignment contextid="G7" backup="false" macroguid="{0E3F3D6C-B76D-4A3A-A07B-6F645C0C3202}" shiftstate="1" original="false"/>
+</assignments>
+<backlight devicemodel="Logitech.Gaming.LeftHandedController.G13">
+<mode shiftstate="1" color="#ffffff"/>
+<mode shiftstate="2" color="#ffffff"/>
+<mode shiftstate="3" color="#ffffff"/>
+</backlight>
+<script>function OnEvent(event, arg) OutputLogMessage("event = %s, arg = %s\n", event, arg) end</script>
+</profile>
+</profiles>
