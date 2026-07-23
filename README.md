@@ -11,11 +11,11 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 
 <img width="100%" src="./assets/johann-neon-systems-banner.svg" alt="Johann Tafur — Neon systems" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=112&color=0:090014,22:6A00FF,52:FF00C8,76:00E5FF,100:B8FF00&text=JOHANN%20TAFUR&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=Full-Stack%20Developer%20%26%20Urban%20Tech%20Builder" alt="Johann Tafur - Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=112&color=0:090014,22:6A00FF,52:FF00C8,76:00E5FF,100:B8FF00&text=JOHANN%20TAFUR%20FARFAN&fontSize=40&fontColor=FFFFFF&fontAlignY=43&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20Smart%20Urban%20Mobility&descAlignY=70&descAlign=50" alt="Johann Tafur Farfán Banner" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SOFTWARE+DEVELOPER+IN+TRAINING;%F0%9F%9A%8D+BUILDING+WAYLIX;%F0%9F%8C%A9+NEON+SYSTEMS;%F0%9F%92%BB+JAVA+%7C+SQL+%7C+FULL+STACK" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SOFTWARE+DEVELOPER+IN+TRAINING;%F0%9F%9A%8D+BUILDING+WAYLIX;%F0%9F%8C%8F+SMART+URBAN+MOBILITY;%F0%9F%92%BB+JAVA+%7C+MYSQL+%7C+FULL-STACK" alt="Typing animation" />
 
 <br />
 
@@ -23,6 +23,7 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 [![ADSO](https://img.shields.io/badge/ADSO_3239137-FF00C8?style=for-the-badge&logoColor=white)](https://www.sena.edu.co/)
 [![Neiva](https://img.shields.io/badge/NEIVA%2C_COLOMBIA-B8FF00?style=for-the-badge&logo=googlemaps&logoColor=090014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
 [![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=090014)](mailto:johanntafurfarfan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johann-tafur)
 
 </div>
 
@@ -80,7 +81,7 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 
 | **⚡ Backend** | **🗄️ Database** | **🎨 Frontend** | **🔧 DevOps** |
 |:--:|:--:|:--:|:--:|
-| ![Java](https://img.shields.io/badge/JAVA-6A00FF?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=090014) | ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-B8FF00?style=for-the-badge&logo=javascript&logoColor=090014) | ![Docker](https://img.shields.io/badge/DOCKER-FF00C8?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Java](https://img.shields.io/badge/JAVA-6A00FF?style=for-the-badge&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=090014) | ![HTML](https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | OOP · Design Patterns | Relational Design | HTML · CSS · Responsive | Linux · Git · GitHub |
 
 </div>
@@ -141,11 +142,11 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 <div align="center">
 
 <a href="https://github.com/Johann-Tafur">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=090014&title_color=FF00C8&text_color=F8F5FF&icon_color=00E5FF&ring_color=6A00FF&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=090014&title_color=FF00C8&text_color=F8F5FF&icon_color=00E5FF&ring_color=6A00FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/Johann-Tafur">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=F8F5FF&card_width=320" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00E5FF&text_color=F8F5FF&card_width=320&langs_count=8" alt="Top Languages" />
 </a>
 
 <br /><br />
@@ -154,7 +155,7 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 
 <br /><br />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=090014&color=00E5FF&line=FF00C8&point=B8FF00&area=true&hide_border=true&grid=false" alt="Contribution Activity Graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=090014&color=00E5FF&line=FF00C8&point=B8FF00&area=true&hide_border=true&grid=false" alt="Contribution Graph" />
 
 <br /><br />
 
@@ -170,13 +171,13 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 
 <div align="center">
 
-| Topic | Progress |
-|:--|:--|
-| Spring Boot & Enterprise Patterns | 🔄 In Progress |
-| System Design & Architecture | 🔄 Exploring |
-| REST APIs & Microservices | 🔄 Practicing |
-| Clean Code & SOLID Principles | 🔄 Mastering |
-| Full-Stack Development | 🔄 Building |
+| Topic | Progress | Status |
+|:--|:--|:--|
+| Spring Boot & Enterprise Patterns | 🔄 | In Progress |
+| System Design & Architecture | 🔄 | Exploring |
+| REST APIs & Microservices | 🔄 | Practicing |
+| Clean Code & SOLID Principles | 🔄 | Mastering |
+| Full-Stack Development | 🔄 | Building |
 
 </div>
 
@@ -188,7 +189,7 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
   <summary><b>🎓 Estudios Académicos</b></summary>
 
   - **ADSO (Análisis y Desarrollo de Software)**  
-    SENA · Ficha 3239137 · 2024-2026
+    SENA · Ficha 3239137 · 2024-2026 ✅ En curso
   
   - **Ingeniería de Software**  
     UNIMINUTO · En curso
@@ -221,7 +222,7 @@ PORTFOLIO: WAYLIX - Smart Urban Mobility
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:090014,35:6A00FF,65:FF00C8,100:00E5FF&section=footer&text=SYSTEM%20ONLINE%20%7C%20READY%20TO%20BUILD&fontColor=FFFFFF&fontSize=18&fontAlignY=65&animation=twinkling" alt="System Online Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:090014,35:6A00FF,65:FF00C8,100:00E5FF&section=footer&text=SYSTEM%20ONLINE%20%7C%20READY%20TO%20BUILD&fontColor=FFFFFF&fontSize=26" alt="Footer wave" />
 
 <sub>
 
