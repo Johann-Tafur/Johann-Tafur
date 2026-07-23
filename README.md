@@ -1,3 +1,10 @@
+<!--
+CONFIG
+FULL_NAME: Johann Tafur Farfán
+GITHUB_USER: Johann-Tafur
+EMAIL: johanntafurfarfan@gmail.com
+CODE_SENA_URL: https://github.com/code-sena
+-->
 <div align="center">
 
 <img width="100%" src="./assets/johann-neon-systems-banner.svg" alt="Johann Tafur — Neon systems" />
