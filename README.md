@@ -31,7 +31,6 @@ role: Software Developer in Training
 base: Neiva, Huila — Colombia
 education:
   - ADSO · SENA · Ficha 3239137
-  - Ingeniería de Software · UNIMINUTO
 current_quest: WAYLIX
 signal: Convertir problemas reales en experiencias digitales útiles
 ```
