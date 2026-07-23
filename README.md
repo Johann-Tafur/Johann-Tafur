@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="./assets/tafur-multiverse-banner.png" alt="Johann Tafur — universo urbano de cómic" />
+<img width="100%" src="./assets/johann-neon-systems-banner.svg" alt="Johann Tafur — Neon systems" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=112&color=0:090014,22:6A00FF,52:FF00C8,76:00E5FF,100:B8FF00&text=JOHANN%20TAFUR&fontSize=42&fontColor=FFFFFF&fontAlignY=43&desc=SYSTEM%20ONLINE%20%2F%2F%20BUILDING%20THE%20NEXT%20MOVE&descSize=12&descAlignY=71&animation=twinkling" width="100%" alt="Johann Tafur — system online" />
 
