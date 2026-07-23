@@ -1,37 +1,44 @@
 <div align="center">
 
-<img width="100%" src="./assets/tafur-multiverse-banner.png" alt="TAFUR — Software, Waylix y Neiva en un universo urbano de cómic" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090014,25:6A00FF,55:FF00C8,78:00E5FF,100:B8FF00&height=190&section=header&text=JOHANN%20TAFUR&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=CODE%20%2F%2F%20CREATE%20%2F%2F%20BREAK%20THE%20PATTERN&descSize=14&descAlignY=66&animation=fadeIn" width="100%" alt="Johann Tafur — Code, create, break the pattern" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SOFTWARE+DEVELOPER+IN+TRAINING;%F0%9F%9A%8D+BUILDING+WAYLIX;%F0%9F%8C%83+NEIVA%2C+COLOMBIA;%E2%9C%A6+TURNING+IDEAS+INTO+SYSTEMS" alt="Animated introduction" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&pause=850&color=FF2BD6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&lines=%E2%9A%A1+JOHANN+TAFUR+FARF%C3%81N;%F0%9F%9A%8D+CREANDO+WAYLIX;%F0%9F%92%BB+JAVA+%E2%80%A2+SQL+%E2%80%A2+SOFTWARE;%F0%9F%8C%8C+DEL+CAOS+NACEN+LAS+MEJORES+IDEAS" alt="Presentación animada de Johann Tafur" />
-
-[![GitHub](https://img.shields.io/badge/@Johann--Tafur-090014?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Johann-Tafur)
-[![SENA](https://img.shields.io/badge/ADSO_3239137-FF2BD6?style=for-the-badge&logoColor=white)](https://www.sena.edu.co/)
-[![Neiva](https://img.shields.io/badge/NEIVA_•_COLOMBIA-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=090014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
+[![Profile](https://img.shields.io/badge/@Johann--Tafur-0A0014?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/Johann-Tafur)
+[![SENA](https://img.shields.io/badge/ADSO_3239137-FF00C8?style=for-the-badge&logoColor=white)](https://www.sena.edu.co/)
+[![Colombia](https://img.shields.io/badge/NEIVA%2C_COLOMBIA-B8FF00?style=for-the-badge&logo=googlemaps&logoColor=0A0014)](https://www.google.com/maps/search/?api=1&query=Neiva%2C%20Colombia)
 
 </div>
 
-## `01 // ORIGIN STORY`
+<br />
+
+## ◢◤ SIGNAL DETECTED
 
 ```yaml
 identity: Johann Tafur Farfán
-class: Software Developer in Training
-location: Neiva, Huila — Colombia
+role: Software Developer in Training
+base: Neiva, Huila — Colombia
 education:
   - ADSO · SENA · Ficha 3239137
   - Ingeniería de Software · UNIMINUTO
-current_mission: Construir productos digitales que resuelvan problemas reales
-main_universe: WAYLIX
+currently_building: WAYLIX
+mission: Convertir problemas reales en productos útiles, claros y memorables
 ```
 
-Vengo del sector farmacéutico, donde aprendí que la precisión, el orden y las personas importan. Ahora llevo esa experiencia al software: convierto necesidades reales en soluciones claras, útiles y con identidad propia.
+> Vengo del sector farmacéutico: precisión, orden y atención a las personas.
+> Ahora llevo esa mentalidad al software para diseñar soluciones que se sientan humanas.
 
-> **No estoy esperando el futuro. Estoy aprendiendo a programarlo.**
+<div align="center">
+
+**No espero el futuro. Aprendo a programarlo.**
+
+</div>
 
 ---
 
-## `02 // POWER SET`
+## ◢◤ LOADOUT
 
 <div align="center">
 
@@ -39,82 +46,83 @@ Vengo del sector farmacéutico, donde aprendí que la precisión, el orden y las
 
 <br /><br />
 
-![Java](https://img.shields.io/badge/JAVA-FF4D00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=090014)
-![Git](https://img.shields.io/badge/GIT-FF2BD6?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-6C4BFF?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-6A00FF?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=mysql&logoColor=0A0014)
+![Git](https://img.shields.io/badge/GIT-FF00C8?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-B8FF00?style=for-the-badge&logo=docker&logoColor=0A0014)
 
 </div>
 
-| ⚡ Construyendo ahora | 🌀 Próximo nivel |
-|:---|:---|
+| NOW BUILDING | NEXT UPGRADE |
+|:--|:--|
 | Aplicaciones Java y lógica de negocio | Arquitectura de software |
-| Bases de datos relacionales y SQL | Código limpio y mantenible |
-| Interfaces con HTML, CSS y JavaScript | Productos centrados en usuarios |
-| Flujos con Git, GitHub y Docker | Desarrollo full stack |
+| Modelado de datos y SQL | Código limpio y mantenible |
+| Interfaces HTML, CSS y JavaScript | Desarrollo full stack |
+| Flujos con Git, GitHub y Docker | Productos centrados en usuarios |
 
 ---
 
-## `03 // MAIN UNIVERSE: WAYLIX`
+## ◢◤ MAIN QUEST — WAYLIX
 
 <div align="center">
 
-### 🚍 **Tu camino inteligente**
+### 🚍 Movilidad urbana, sin adivinar.
 
-**Una visión de movilidad urbana para conectar pasajeros, conductores y empresas.**
+**WAYLIX** es una visión de movilidad inteligente para conectar pasajeros, conductores y empresas en tiempo real.
 
 </div>
 
 ```text
-PASAJERO  ──►  RUTA IDEAL  ──►  BUS EN TIEMPO REAL
-    ▲                                  │
-    │          ┌────────────┐          ▼
-    └──────────│   WAYLIX   │◄──  OCUPACIÓN + TRÁFICO
-               └────────────┘
+ PASAJERO ──► RUTA IDEAL ──► BUS EN TIEMPO REAL
+     ▲                               │
+     │        ┌────────────┐         ▼
+     └────────│   WAYLIX   │◄── OCUPACIÓN + TRÁFICO
+              └────────────┘
 ```
 
-- 📍 Seguimiento de rutas, paradas y tiempos estimados.
-- 👥 Nivel de ocupación: disponible, medio o lleno.
-- 🚦 Alertas de tráfico, fallas y novedades de la vía.
-- 🧭 Recomendaciones para encontrar la mejor ruta.
-- 🏢 Herramientas de coordinación para conductores y empresas.
+- 📍 Rutas, paradas y tiempos estimados.
+- 👥 Estado de ocupación: disponible, medio o lleno.
+- 🚦 Alertas de tráfico, fallas y novedades.
+- 🧭 Recomendaciones para elegir mejor.
+- 🏢 Herramientas para conductores y empresas.
 
-> Waylix nace de una pregunta sencilla: **¿por qué moverse por la ciudad tiene que sentirse como adivinar?**
+> **¿Por qué moverse por la ciudad tiene que sentirse como adivinar?**  
+> Waylix existe para convertir esa pregunta en una mejor experiencia.
 
 ---
 
-## `04 // LIVE SIGNAL`
+## ◢◤ LIVE TELEMETRY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=090014&title_color=FF2BD6&text_color=F8F5FF&icon_color=00D9FF&ring_color=FF7A00" alt="Estadísticas de GitHub de Johann Tafur" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=090014&title_color=00D9FF&text_color=F8F5FF" alt="Lenguajes más usados por Johann Tafur" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Johann-Tafur&show_icons=true&hide_border=true&bg_color=0A0014&title_color=FF00C8&text_color=F5F0FF&icon_color=00E5FF&ring_color=B8FF00" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-Tafur&layout=compact&hide_border=true&bg_color=0A0014&title_color=00E5FF&text_color=F5F0FF" alt="Most used languages" />
 
-<br />
+<br /><br />
 
-<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=090014&ring=FF2BD6&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=F8F5FF&dates=9D8CFF&stroke=24114D" alt="Racha de contribuciones de Johann Tafur" />
+<img src="https://streak-stats.demolab.com?user=Johann-Tafur&hide_border=true&background=0A0014&ring=FF00C8&fire=B8FF00&currStreakLabel=00E5FF&sideLabels=F5F0FF&dates=9D8CFF&stroke=281342" alt="Contribution streak" />
 
-<br />
+<br /><br />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=090014&color=00D9FF&line=FF2BD6&point=FF7A00&area=true&hide_border=true" alt="Gráfica de actividad de Johann Tafur" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Johann-Tafur&bg_color=0A0014&color=00E5FF&line=FF00C8&point=B8FF00&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## `05 // OPEN CHANNEL`
+## ◢◤ OPEN A CHANNEL
 
 <div align="center">
 
 ### ¿Construimos algo que todavía no existe?
 
-[![Repositorios](https://img.shields.io/badge/EXPLORAR_REPOSITORIOS-FF2BD6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Tafur?tab=repositories)
-[![Email](https://img.shields.io/badge/ENVIAR_SEÑAL-00D9FF?style=for-the-badge&logo=gmail&logoColor=090014)](mailto:johanntafurfarfan@gmail.com)
+[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-FF00C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johann-Tafur?tab=repositories)
+[![Send email](https://img.shields.io/badge/SEND_A_SIGNAL-00E5FF?style=for-the-badge&logo=gmail&logoColor=0A0014)](mailto:johanntafurfarfan@gmail.com)
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=130&color=0:090014,35:6C4BFF,65:FF2BD6,100:FF7A00&section=footer&text=END%20OF%20THIS%20UNIVERSE...&fontColor=FFFFFF&fontSize=18&animation=twinkling" width="100%" alt="Final del perfil" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0A0014,40:6A00FF,70:FF00C8,100:00E5FF&section=footer&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=18&animation=twinkling&fontAlignY=62" width="100%" alt="System online" />
 
-<sub>`TAFUR // NEIVA // 2026` · Hecho con código, curiosidad y caos creativo.</sub>
+<sub>TAFUR // NEIVA // 2026 · Built with code, curiosity and controlled chaos.</sub>
 
 </div>
