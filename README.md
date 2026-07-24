@@ -1,22 +1,10 @@
 <!--
-===============================================================================
-CONFIGURACIÓN PUBLICADA
-===============================================================================
-Nombre mostrado: Johann Tafur
-Usuario GitHub: Johann-Tafur
-Ubicación general: Colombia
-Formación: ADSO — Análisis y Desarrollo de Software
-Proyecto confirmado: Johann-Tafur/ADSO-3239137
-Tecnologías del plan formativo: Java, C#, Angular y Docker
-Tecnología publicada en el proyecto: HTML
-
-No se publican correo, LinkedIn ni portafolio porque no están confirmados como
-datos profesionales públicos.
-
-El próximo arco comienza con un nuevo commit.
-===============================================================================
+CONFIG
+FULL_NAME: Johann Tafur Farfán
+GITHUB_USER: Johann-Tafur
+EMAIL: johanntafurfarfan@gmail.com
+CODE_SENA_URL: https://github.com/code-sena
 -->
-
 <div align="center">
   <img
     src="assets/banner-cyberpunk.webp"
