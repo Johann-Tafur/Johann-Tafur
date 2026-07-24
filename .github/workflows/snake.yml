@@ -3,6 +3,9 @@ name: Generar animación de contribuciones
 on:
   schedule:
     - cron: "17 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/snake.yml"
   workflow_dispatch:
 
 permissions:
