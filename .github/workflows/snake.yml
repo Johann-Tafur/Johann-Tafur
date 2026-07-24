@@ -1,0 +1,31 @@
+name: Generar animación de contribuciones
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generar SVG claro y oscuro
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23FF1744&color_dots=%23090A1A,%2300D9FF,%237C3AED,%23FF2BD6,%23EAF7FF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF2BD6&color_dots=%23050510,%2300D9FF,%237C3AED,%23FF1744,%23EAF7FF
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          build_dir: dist
+          branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
