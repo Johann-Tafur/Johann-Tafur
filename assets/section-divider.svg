@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-labelledby="title desc">
+  <title id="title">Separador de progreso cyberpunk</title>
+  <desc id="desc">Líneas diagonales de neón, puntos de progreso y el texto Code Build Evolve.</desc>
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00D9FF"/>
+      <stop offset=".48" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#FF2BD6"/>
+      <animate attributeName="x1" values="-1;0;1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;2" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7C3AED" opacity=".34"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-100%" width="140%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="72" rx="8" fill="#050510"/>
+  <path d="M0 58L300 14h320L900 58h300" fill="none" stroke="#FF1744" stroke-width="1" opacity=".42"/>
+  <path d="M0 48L280 24h360L920 48h280" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+  <path d="M0 0h240l-56 72H0zm1200 0H960l56 72h184z" fill="url(#dots)"/>
+  <g fill="#050510" stroke="url(#neon)" stroke-width="3">
+    <circle cx="280" cy="24" r="7"/>
+    <circle cx="600" cy="24" r="7"/>
+    <circle cx="920" cy="48" r="7"/>
+    <circle r="5">
+      <animateMotion dur="4.8s" repeatCount="indefinite" path="M0 48L280 24h360L920 48h280"/>
+    </circle>
+  </g>
+  <g fill="#EAF7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="4">
+    <text x="310" y="52">CODE</text>
+    <text x="570" y="52">BUILD</text>
+    <text x="850" y="34">EVOLVE</text>
+  </g>
+</svg>
